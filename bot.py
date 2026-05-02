@@ -4,7 +4,7 @@ from datetime import datetime
 from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, CommandHandler, filters, ContextTypes
 
-TOKEN = "TU_TOKEN_AQUI"
+TOKEN = "8704044357:AAH05hsgP2xLIvj9uv-5dIZz9fVlR0GmqLI"
 
 # -----------------------
 # NORMALIZAR TEXTO
